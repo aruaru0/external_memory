@@ -10,5 +10,5 @@
 ## :red_circle: [テーブルデータ](doc/table_data.md)
 主に、表形式のデータに対するもの
 
-## :red_circle: [pytorch](doc/pytoch.md)
+## :red_circle: [pytorch](doc/pytorch.md)
 pytorch関連
